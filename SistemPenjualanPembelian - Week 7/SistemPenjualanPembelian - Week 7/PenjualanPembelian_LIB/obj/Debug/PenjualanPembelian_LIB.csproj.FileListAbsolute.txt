@@ -1,0 +1,5 @@
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Debug\PenjualanPembelian_LIB.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Debug\MySql.Data.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Debug\PenjualanPembelian_LIB.pdb

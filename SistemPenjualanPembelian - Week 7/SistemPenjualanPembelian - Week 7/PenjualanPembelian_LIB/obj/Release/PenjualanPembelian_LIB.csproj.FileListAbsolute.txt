@@ -1,0 +1,109 @@
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.dll
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\PenjualanPembelian_LIB.pdb
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\bin\Release\MySql.Data.dll
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.csprojResolveAssemblyReference.cache
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.dll
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\PenjualanPembelian_LIB\obj\Release\PenjualanPembelian_LIB.pdb

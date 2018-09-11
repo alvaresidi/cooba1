@@ -1,0 +1,396 @@
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 2\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Copy\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 3\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week3\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 4\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 6\SistemPenjualanPembelian - Week4\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+E:\KAMPUS\_PBD\_PBD GASAL 2017-2018\MATERI\PBD Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+J:\SEMESTER 5\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+J:\SEMESTER 5\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\a17\Documents\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+J:\SEMESTER 5\PBD (C)\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+J:\SEMESTER 5\PBD (C)\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+J:\SEMESTER 5\PBD (C)\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\user\Documents\Visual Studio 2013\week 8\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\a18\Documents\New folder\TugasWeek_Hadi-160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+D:\proyek hadi\Semester 5\PBD\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\a18\Documents\New folder\week9\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+J:\SEMESTER 5\PBD (C)\week 10\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusPegawai.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusPegawai.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahPegawai.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarNotaJual.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahNotaJual.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarNotaBeli.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarNotaJual.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahNotaBeli.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahNotaJual.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahPegawai.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+J:\SEMESTER 5\PBD (C)\week 11\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarNotaBeli.resources
+C:\Users\a18\Documents\Visual Studio 2013\Projects\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahNotaBeli.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.pdb
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\MySql.Data.dll
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.dll
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\PenjualanPembelian_LIB.pdb
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csprojResolveAssemblyReference.cache
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarBarang.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarKategori.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarNotaBeli.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarNotaJual.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPegawai.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormDaftarPelanggan.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusBarang.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusKategori.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormHapusPegawai.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormLogin.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahBarang.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahKategori.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahNotaBeli.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahNotaJual.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormTambahPegawai.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahBarang.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahKategori.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUbahPegawai.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.FormUtama.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.Properties.Resources.resources
+E:\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.csproj.GenerateResource.Cache
+D:\Kuliah\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\bin\Release\SistemPenjualanPembelian.exe.config
+D:\Kuliah\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.exe
+D:\Kuliah\TA - LOL\HadiAlHasan_160715069\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian - Week 7\SistemPenjualanPembelian\obj\Release\SistemPenjualanPembelian.pdb
